@@ -58,7 +58,7 @@
     "feature": "Lekcje zrealizowane",
     "uonet": "y",
     "hebe": "y",
-    "szkolny": "n",
+    "szkolny": "y",
     "wulkanowy": "y"
   },
   {
@@ -107,7 +107,7 @@
     "feature": "Logowanie za pomocą loginu i hasła",
     "uonet": "y",
     "hebe": "n",
-    "szkolny": "n",
+    "szkolny": "y",
     "wulkanowy": "y"
   }
 ]
